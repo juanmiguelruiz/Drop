@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "23"; ObjectID = "1Et-VG-gAR"; */
+"1Et-VG-gAR.text" = "23";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "3s1-ru-ded"; */
+"3s1-ru-ded.normalTitle" = "CAMBIAR";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "5Tc-d0-SNd"; */
+"5Tc-d0-SNd.placeholder" = "Ciudad";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "67M-Tw-CJa"; */
+"67M-Tw-CJa.normalTitle" = "Atrás";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "7Cj-54-yf1"; */
+"7Cj-54-yf1.normalTitle" = "Atrás";
+
+/* Class = "UILabel"; text = "25"; ObjectID = "81l-nq-wYL"; */
+"81l-nq-wYL.text" = "25";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "9ff-IO-a7E"; */
+"9ff-IO-a7E.text" = "23";
+
+/* Class = "UIButton"; normalTitle = "Preferences"; ObjectID = "9mm-I9-DXf"; */
+"9mm-I9-DXf.normalTitle" = "Preferencias";
+
+/* Class = "UILabel"; text = "13"; ObjectID = "C3X-tB-YIo"; */
+"C3X-tB-YIo.text" = "13";
+
+/* Class = "UILabel"; text = "TEMPERATURE"; ObjectID = "CtJ-5D-1ri"; */
+"CtJ-5D-1ri.text" = "TEMPERATURA";
+
+/* Class = "UILabel"; text = "↓"; ObjectID = "Gnw-sC-viQ"; */
+"Gnw-sC-viQ.text" = "↓";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "Hoo-mG-Nfg"; */
+"Hoo-mG-Nfg.text" = "23";
+
+/* Class = "UILabel"; text = "PRESSURE"; ObjectID = "IRs-Hp-tIf"; */
+"IRs-Hp-tIf.text" = "PRESIÓN";
+
+/* Class = "UILabel"; text = "APP'S ICON"; ObjectID = "M7M-Z6-pMh"; */
+"M7M-Z6-pMh.text" = "ICONO DE LA APP";
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "NBb-Uf-Qmg"; */
+"NBb-Uf-Qmg.text" = "SOBRE NOSOTROS";
+
+/* Class = "UILabel"; text = "WIND"; ObjectID = "Oqw-Ju-1ad"; */
+"Oqw-Ju-1ad.text" = "VIENTO";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "PvX-rp-dhm"; */
+"PvX-rp-dhm.text" = "23";
+
+/* Class = "UILabel"; text = "for the application"; ObjectID = "Q0F-L2-F4g"; */
+"Q0F-L2-F4g.text" = "para la app";
+
+/* Class = "UILabel"; text = "DARK MODE"; ObjectID = "QR7-yi-kae"; */
+"QR7-yi-kae.text" = "MODO OSCURO";
+
+/* Class = "UILabel"; text = "SUNSET"; ObjectID = "Rca-I2-j3z"; */
+"Rca-I2-j3z.text" = "ANOCHECER";
+
+/* Class = "UILabel"; text = "Select an icon "; ObjectID = "SPQ-S5-fc2"; */
+"SPQ-S5-fc2.text" = "Selecciona un icono ";
+
+/* Class = "UIButton"; normalTitle = "Default"; ObjectID = "ULr-Zx-SSf"; */
+"ULr-Zx-SSf.normalTitle" = "Restablecer";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "XaU-Zb-vgL"; */
+"XaU-Zb-vgL.text" = "23";
+
+/* Class = "UILabel"; text = "CLOUDS"; ObjectID = "YS9-rq-Gdl"; */
+"YS9-rq-Gdl.text" = "NUBES";
+
+/* Class = "UILabel"; text = "Preferences"; ObjectID = "Yy8-ib-5Ff"; */
+"Yy8-ib-5Ff.text" = "Preferencias";
+
+/* Class = "UILabel"; text = "FEELS LIKE"; ObjectID = "bjL-Cg-2TH"; */
+"bjL-Cg-2TH.text" = "SENS. TÉRMICA";
+
+/* Class = "UILabel"; text = "HUMIDITY"; ObjectID = "e55-Vh-XSh"; */
+"e55-Vh-XSh.text" = "HUMEDAD";
+
+/* Class = "UILabel"; text = "SUNRISE"; ObjectID = "ehL-3i-Nj3"; */
+"ehL-3i-Nj3.text" = "AMANECER";
+
+/* Class = "UILabel"; text = "Soleado"; ObjectID = "fCI-rl-8g0"; */
+"fCI-rl-8g0.text" = "Soleado";
+
+/* Class = "UIButton"; normalTitle = "INFO"; ObjectID = "hDx-UR-9n2"; */
+"hDx-UR-9n2.normalTitle" = "INFO";
+
+/* Class = "UISegmentedControl"; hHb-7R-7JR.segmentTitles[0] = "Cº"; ObjectID = "hHb-7R-7JR"; */
+"hHb-7R-7JR.segmentTitles[0]" = "Cº";
+
+/* Class = "UISegmentedControl"; hHb-7R-7JR.segmentTitles[1] = "Fº"; ObjectID = "hHb-7R-7JR"; */
+"hHb-7R-7JR.segmentTitles[1]" = "Fº";
+
+/* Class = "UITextView"; text = "This application is developed by Juan Miguel Ruiz Pazos with the supervision of José Mariano González Romano.  "; ObjectID = "hYU-jZ-aBc"; */
+"hYU-jZ-aBc.text" = "Esta aplicación está desarrollada por Juan Miguel Ruiz Pazos con la supervisión de José Mariano González Romano.";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "j4p-pv-6r7"; */
+"j4p-pv-6r7.text" = "23";
+
+/* Class = "UILabel"; text = "UNITS"; ObjectID = "jY7-4c-6sG"; */
+"jY7-4c-6sG.text" = "UNIDADES";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "ktG-d6-uaa"; */
+"ktG-d6-uaa.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "n4n-CF-Rll"; */
+"n4n-CF-Rll.normalTitle" = "Atrás";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "oLg-GT-Bjj"; */
+"oLg-GT-Bjj.text" = "Sobre Nosotros";
+
+/* Class = "UILabel"; text = "↑"; ObjectID = "oc3-9c-V3S"; */
+"oc3-9c-V3S.text" = "↑";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "qCh-VH-OBL"; */
+"qCh-VH-OBL.text" = "23";
+
+/* Class = "UITextView"; text = "Drop is an academic project for the subject \"Trabajo Fin de Grado\" of the degree \"Computer Engineering - Software Engineering\" at the University of Seville. The purposes of the application are purely academic. "; ObjectID = "tih-Ot-kGs"; */
+"tih-Ot-kGs.text" = "Drop es un proyecto académico para la asignatura \"Trabajo Fin de Grado\" del grado \"Ingeniería Informática - Ingeniería del Software\" en la Universidad de Sevilla. Los objetivos de proyecto son puramente académicos.";
+
+/* Class = "UIButton"; normalTitle = "INFO"; ObjectID = "veE-Ih-WGq"; */
+"veE-Ih-WGq.normalTitle" = "INFO";
+
+/* Class = "UITextView"; text = "Some of the graphic elements of the application have been downloaded from freepik.com and flaticon.com"; ObjectID = "yY8-u0-5ym"; */
+"yY8-u0-5ym.text" = "Algunos de los elementos gráficos de la aplicación han sido descargados de freepik.com y flaticon.com";
+
+/* Class = "UILabel"; text = "Trebujena"; ObjectID = "zWL-nw-Zhj"; */
+"zWL-nw-Zhj.text" = "Trebujena";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "zzl-gb-xtn"; */
+"zzl-gb-xtn.text" = "00:00";
